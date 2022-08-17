@@ -23,8 +23,8 @@ for titleTag in title_data:
 
 #Spotify
 
-Client_ID = "5fd5593ec41b47c49f595d14b415d9a8"    
-Client_Secret = "b834abb55dbf432abdfc75e14a35d226"
+Client_ID = "YOUR ID"   
+Client_Secret = "YOUR SECRET"
 URI = "http://example.com"
 scope = "playlist-modify-private"
 
